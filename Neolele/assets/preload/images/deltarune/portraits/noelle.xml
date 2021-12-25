@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noelle.png">
+	<!-- Created with Not Adobe Animate -->
+	<!-- https://www.youtube.com/watch?v=dQw4w9WgXcQ -->
+	<SubTexture name="NOELLE Portrait Enter instance 10000" x="0" y="0" width="358" height="263"/>
+</TextureAtlas>

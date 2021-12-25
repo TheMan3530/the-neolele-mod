@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TrollHD.png">
+<SubTexture name="TrollHD sing LEFT0000" x="0" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD sing DOWN0000" x="1028" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD sing DOWN alt0000" x="2056" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD sing UP0000" x="0" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD sing RIGHT0000" x="1028" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD idle dance0000" x="2056" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD idle dance0001" x="0" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD idle dance0002" x="1028" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD idle dance0003" x="2056" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD idle dance0004" x="0" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD idle dance0005" x="1028" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD idle dance0006" x="2056" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+<SubTexture name="TrollHD idle dance0007" x="0" y="4112" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+</TextureAtlas>

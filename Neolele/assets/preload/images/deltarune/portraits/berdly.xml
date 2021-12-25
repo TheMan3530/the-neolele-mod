@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="berdly.png">
+    <SubTexture name="BERDLY Portrait Enter instance 10000" x="0" y="0" width="298" height="269" frameX="0" frameY="0" frameWidth="321" frameHeight="790" />
+</TextureAtlas>

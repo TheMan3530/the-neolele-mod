@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="noelle_assets.png">
+<SubTexture name="noelle idle dance0000" x="0" y="0" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="noelle idle dance0001" x="427" y="0" width="427" height="605" frameX="0" frameY="0" frameWidth="427" frameHeight="605" />
+<SubTexture name="noelle idle dance0002" x="0" y="605" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="noelle idle dance0003" x="427" y="605" width="427" height="605" frameX="0" frameY="0" frameWidth="427" frameHeight="605" />
+<SubTexture name="noelle sing LEFT0000" x="0" y="1210" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="noelle sing DOWN0000" x="427" y="1210" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="noelle sing UP0000" x="0" y="1814" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="noelle sing RIGHT0000" x="427" y="1814" width="426" height="604" frameX="0" frameY="0" frameWidth="426" frameHeight="604" />
+</TextureAtlas>

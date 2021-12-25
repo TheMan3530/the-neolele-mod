@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sussie.png">
+<SubTexture name="Sussie Idle Dance0000" x="0" y="0" width="851" height="1205" frameX="0" frameY="0" frameWidth="851" frameHeight="1205" />
+<SubTexture name="Sussie Idle Dance0001" x="851" y="0" width="851" height="1205" frameX="0" frameY="0" frameWidth="851" frameHeight="1205" />
+<SubTexture name="Sussie Idle Dance0002" x="1702" y="0" width="851" height="1205" frameX="0" frameY="0" frameWidth="851" frameHeight="1205" />
+<SubTexture name="Sussie Idle Dance0003" x="0" y="1205" width="851" height="1205" frameX="0" frameY="0" frameWidth="851" frameHeight="1205" />
+<SubTexture name="Sussie Idle Dance0004" x="851" y="1205" width="851" height="1205" frameX="0" frameY="0" frameWidth="851" frameHeight="1205" />
+<SubTexture name="Sussie sing LEFT0000" x="1702" y="1205" width="851" height="1205" frameX="0" frameY="0" frameWidth="851" frameHeight="1205" />
+<SubTexture name="Sussie sing DOWN0000" x="0" y="2410" width="851" height="1205" frameX="0" frameY="0" frameWidth="851" frameHeight="1205" />
+<SubTexture name="Sussie sing UP0000" x="851" y="2410" width="851" height="1205" frameX="0" frameY="0" frameWidth="851" frameHeight="1205" />
+<SubTexture name="Sussie sing RIGHT0000" x="1702" y="2410" width="851" height="1205" frameX="0" frameY="0" frameWidth="851" frameHeight="1205" />
+</TextureAtlas>

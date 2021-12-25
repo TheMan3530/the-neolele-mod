@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neolele_assets.png">
+<SubTexture name="Neolele Idle Dance0000" x="0" y="0" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="Neolele Idle Dance0001" x="427" y="0" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="Neolele Idle Dance0002" x="854" y="0" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="Neolele Idle Dance0003" x="0" y="604" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="Neolele Idle Dance0004" x="427" y="604" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="Neolele Idle Dance0005" x="854" y="604" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="Neolele sing LEFT0000" x="0" y="1208" width="426" height="604" frameX="0" frameY="0" frameWidth="426" frameHeight="604" />
+<SubTexture name="Neolele sing DOWN0000" x="426" y="1208" width="427" height="604" frameX="0" frameY="0" frameWidth="427" frameHeight="604" />
+<SubTexture name="Neolele sing UP0000" x="853" y="1208" width="1478" height="604" frameX="0" frameY="0" frameWidth="1478" frameHeight="604" />
+<SubTexture name="Neolele sing UP0001" x="0" y="1812" width="1478" height="604" frameX="0" frameY="0" frameWidth="1478" frameHeight="604" />
+<SubTexture name="Neolele sing UP0002" x="1478" y="1812" width="1478" height="604" frameX="0" frameY="0" frameWidth="1478" frameHeight="604" />
+<SubTexture name="Neolele sing UP0003" x="2956" y="1812" width="1478" height="604" frameX="0" frameY="0" frameWidth="1478" frameHeight="604" />
+<SubTexture name="Neolele sing UP0004" x="0" y="2416" width="1478" height="604" frameX="0" frameY="0" frameWidth="1478" frameHeight="604" />
+<SubTexture name="Neolele sing RIGHT0000" x="1478" y="2416" width="426" height="604" frameX="0" frameY="0" frameWidth="426" frameHeight="604" />
+</TextureAtlas>
